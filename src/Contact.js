@@ -23,8 +23,7 @@ function Contact() {
                             </div>
                             <div className='linkDiv'>
                             <img id='linkimg' src={github}></img>
-                                <h2><strong>https://github.com/umeshyadavrocks</strong></h2>
-                                
+                                <h2><a href="https://github.com/umeshyadavrocks"><strong>https://github.com/umeshyadavrocks</strong></a></h2>
                             </div>
                             <div className='linkDiv'>
                             <img id='linkimg' src={mail}></img>
@@ -33,7 +32,7 @@ function Contact() {
                             </div>
                             <div className='linkDiv'>
                                 <img id='linkimg' src={linkSvg}></img>
-                                <h2><strong>https://www.linkedin.com/in/umesh-yadav-618256b6/</strong></h2>
+                                <h2><a href="https://www.linkedin.com/in/umesh-yadav-618256b6/"><strong>https://www.linkedin.com/in/umesh-yadav-618256b6/</strong></a></h2>
                                 
                             </div>
 
