@@ -30,7 +30,7 @@ input.contact{
 }
 .contact__img{
     border-radius: 10px;
-    width: 100%;
+    width: 80%;
     overflow: hidden;
 }
 textarea#message{
@@ -46,4 +46,21 @@ textarea#message{
 }
 button.btn.contact.pointer {
     margin: 20px 0px;
+}
+.linkDiv{
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 10px;
+    padding: 2%;
+}
+svg{
+    width: 8%;
+}
+#linkimg{
+    width: 8%;
 }

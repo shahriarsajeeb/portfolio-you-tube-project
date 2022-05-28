@@ -1,5 +1,5 @@
 .project{
-    background-color: #191919;
+    background-color: black;
 }
 img.project__img {
     border-radius: 10px;
@@ -42,6 +42,7 @@ img.project__img::after{
     display: flex;
     height: 100%;
     align-items: center;
+    text-align: center;
     justify-content: center;
     flex-direction: column;
     flex-wrap: wrap;
@@ -52,18 +53,22 @@ h5.project__text {
     font-weight: 400;
     font-size: 20px;
     padding-bottom: 20px;
+    color: blue;
 }
 h4.project__text {
     font-size: 22px;
     font-family: Poppins,sans-serif;
     font-weight: 700;
     padding-bottom: 20px;
+    color: #f9004d;
 }
 a.project__btn {
     padding: 12px 35px;
     border: 2px solid #ffffff87;
     border-radius: 5px;
     transition: .4s ease;
+    color: black;
+    background-color: #f9004d;
 }
 a.project__btn:hover{
     background-color: #f9004d;
@@ -96,4 +101,7 @@ h5.project__text {
 h4.project__text {
     font-size: 18px;
 }
+}
+.heading{
+    text-align: center;
 }

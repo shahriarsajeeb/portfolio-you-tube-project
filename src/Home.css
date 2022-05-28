@@ -1,5 +1,5 @@
 .home__bg{
-    background-image: url(C:/Users/SHAJIB/Pictures/portfolio/src/img/bg.jpg);
+    
     background-color: #010101;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -96,5 +96,13 @@ h1.home__text {
 }
 h4.home__text {
     font-size: 45px;
+}
+}
+@media only screen and (min-width: 768px){.toggle__menu{
+    display : none;
+}
+}
+@media only screen and (min-width: 768px){.sideNavbar{
+    display : none;
 }
 }
