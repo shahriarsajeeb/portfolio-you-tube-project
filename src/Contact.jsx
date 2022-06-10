@@ -27,7 +27,7 @@ function Contact() {
                             </div>
                             <div className='linkDiv'>
                             <img id='linkimg' src={mail}></img>
-                                <h2><strong>umeshyadavrocks@gmail.com</strong></h2>
+                                <h2><strong>umeshramyadav7771@gmail.com</strong></h2>
                                 
                             </div>
                             <div className='linkDiv'>
